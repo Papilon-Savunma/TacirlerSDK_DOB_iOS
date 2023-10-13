@@ -315,6 +315,7 @@ public enum CustomFont : Swift.String {
   case latoRegular
   case arsenalRegular
   case aguafinaScriptRegular
+  case gilroyRegular
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -817,7 +818,6 @@ public class SimpleASN1DumpParser {
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class TacirlerSDKViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) public func authorizeToken(inputToken: Swift.String, licenseID: Swift.String)
-  @_Concurrency.MainActor(unsafe) public func verifyToken(sessionToken: Swift.String)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)

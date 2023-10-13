@@ -1,6 +1,6 @@
 # TacirlerSDK_DOB_iOS
 
-[![pod - 0.1.0](https://img.shields.io/badge/pod-0.1.0-blue)](https://cocoapods.org/)
+[![pod - 0.1.1](https://img.shields.io/badge/pod-0.1.1-blue)](https://cocoapods.org/)
 
 ## Requirements
 
@@ -67,32 +67,6 @@ FOR Camera
 </dict>
 ```
 
-## Usage
-
-First import the SDK;
-
-```swift
-import TacirlerSDK
-```
-
-Then, create a view controller object to start cycle;
-
-```swift
-let vc = TacirlerSDKViewController()
-```
-
-Then, handover this view controller to a button. For example;
-
-```swift
-@objc func nextClicked() {
-    vc.modalTransitionStyle = .coverVertical
-    vc.modalPresentationStyle = .fullScreen
-    present(vc, animated: true)
-}
-```
-
-- `x` buttons on the screen is to `dismiss` the SDK. Also, when cycle ends, `home` button is to `dismiss` SDK.
-
 ## Example usage with customization options
 
 ```swift
@@ -150,6 +124,34 @@ class ViewController: UIViewController {
 }
 
 ```
+
+## Important Notes
+
+If you are using XCode version 14.3.1 for your development, you can directly pull and use the updated SDK with a 'pod update' command.
+
+However, if you have upgraded to XCode version 15.0, you may encounter the following error when building after 'pod update':
+<br>
+<b>DT_TOOLCHAIN_DIR cannot be used to evaluate LIBRARY_SEARCH_PATHS, use TOOLCHAIN_DIR instead</b>
+
+Until Apple or CocoaPods releases a new update related to this issue, as a temporary solution after every 'pod update,' please follow these steps in the terminal inside your project folder:
+Run the following script:
+
+```bash
+find . -name "*.xcconfig" -type f -exec grep -l 'DT_TOOLCHAIN_DIR' {} \; | while IFS= read -r file; do sed -i '' 's/DT_TOOLCHAIN_DIR/TOOLCHAIN_DIR/g' "$file"; done
+```
+
+Then, reopen the project and build it again. After this step, you may encounter a runtime error like the following:
+<br>
+<b>Sandbox: rsync(35790) deny(1) file-write-create</b>
+
+For that, you can follow these steps:
+
+Open the Xcode project.<br>
+Click on the project name in the left sidebar to open the project settings.<br>
+Select the target you want to check in the "Targets" section.<br>
+Click on the "Build Settings" tab.<br>
+In the search bar, type "ENABLE_USER_SCRIPT_SANDBOXING."<br>
+If the value of ENABLE_USER_SCRIPT_SANDBOXING is set to "No," then it is disabled. If it is set to "Yes," then it is enabled.
 
 ## SDK Flow
 

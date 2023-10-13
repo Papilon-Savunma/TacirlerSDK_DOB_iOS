@@ -6627,6 +6627,43 @@
             "moduleName": "TacirlerSDK"
           },
           {
+            "kind": "Var",
+            "name": "gilroyRegular",
+            "printedName": "gilroyRegular",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TacirlerSDK.CustomFont.Type) -> TacirlerSDK.CustomFont",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CustomFont",
+                    "printedName": "TacirlerSDK.CustomFont",
+                    "usr": "s:11TacirlerSDK10CustomFontO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "TacirlerSDK.CustomFont.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CustomFont",
+                        "printedName": "TacirlerSDK.CustomFont",
+                        "usr": "s:11TacirlerSDK10CustomFontO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11TacirlerSDK10CustomFontO13gilroyRegularyA2CmF",
+            "mangledName": "$s11TacirlerSDK10CustomFontO13gilroyRegularyA2CmF",
+            "moduleName": "TacirlerSDK"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(rawValue:)",
@@ -21366,34 +21403,6 @@
           },
           {
             "kind": "Function",
-            "name": "verifyToken",
-            "printedName": "verifyToken(sessionToken:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:11TacirlerSDK0A17SDKViewControllerC11verifyToken07sessionF0ySS_tF",
-            "mangledName": "$s11TacirlerSDK0A17SDKViewControllerC11verifyToken07sessionF0ySS_tF",
-            "moduleName": "TacirlerSDK",
-            "declAttributes": [
-              "Custom",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "viewDidLoad",
             "printedName": "viewDidLoad()",
             "children": [
@@ -30121,6 +30130,13 @@
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "StringLiteral",
+      "offset": 462,
+      "length": 16,
+      "value": "\"Gilroy-Regular\""
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "StringLiteral",
       "offset": 166,
       "length": 2,
       "value": "\"\""
@@ -30169,400 +30185,407 @@
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 462,
+      "length": 16,
+      "value": "\"Gilroy-Regular\""
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 564,
+      "offset": 606,
       "length": 3,
       "value": "242"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 568,
+      "offset": 610,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 580,
+      "offset": 622,
       "length": 3,
       "value": "243"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 584,
+      "offset": 626,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 595,
+      "offset": 637,
       "length": 3,
       "value": "245"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 599,
+      "offset": 641,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 611,
+      "offset": 653,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 770,
+      "offset": 812,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 772,
+      "offset": 814,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 784,
+      "offset": 826,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 787,
+      "offset": 829,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 798,
+      "offset": 840,
       "length": 3,
       "value": "149"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 802,
+      "offset": 844,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 814,
+      "offset": 856,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 900,
+      "offset": 942,
       "length": 3,
       "value": "204"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 904,
+      "offset": 946,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 916,
+      "offset": 958,
       "length": 3,
       "value": "204"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 920,
+      "offset": 962,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 931,
+      "offset": 973,
       "length": 3,
       "value": "204"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 935,
+      "offset": 977,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 947,
+      "offset": 989,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1094,
+      "offset": 1136,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1097,
+      "offset": 1139,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1109,
+      "offset": 1151,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1112,
+      "offset": 1154,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1123,
+      "offset": 1165,
       "length": 2,
       "value": "51"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1126,
+      "offset": 1168,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1138,
+      "offset": 1180,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1206,
+      "offset": 1248,
       "length": 3,
       "value": "204"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1210,
+      "offset": 1252,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1222,
+      "offset": 1264,
       "length": 3,
       "value": "204"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1226,
+      "offset": 1268,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1237,
+      "offset": 1279,
       "length": 3,
       "value": "204"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1241,
+      "offset": 1283,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1253,
+      "offset": 1295,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1319,
+      "offset": 1361,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1321,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1333,
-      "length": 2,
-      "value": "56"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1336,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1347,
-      "length": 3,
-      "value": "149"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1351,
-      "length": 3,
-      "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
       "offset": 1363,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1429,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1431,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1443,
+      "offset": 1375,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1446,
+      "offset": 1378,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1457,
+      "offset": 1389,
       "length": 3,
       "value": "149"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1461,
+      "offset": 1393,
       "length": 3,
       "value": "255"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1405,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1471,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
       "offset": 1473,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1543,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1545,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1557,
+      "offset": 1485,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1560,
+      "offset": 1488,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1571,
+      "offset": 1499,
       "length": 3,
       "value": "149"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1575,
+      "offset": 1503,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "IntegerLiteral",
+      "offset": 1515,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1585,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "IntegerLiteral",
       "offset": 1587,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1599,
+      "length": 2,
+      "value": "56"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1602,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1613,
+      "length": 3,
+      "value": "149"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1617,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1629,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/SDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1715,
+      "offset": 1757,
       "length": 7,
       "value": "\"logo3\""
     },
@@ -50953,471 +50976,485 @@
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 355,
+      "offset": 350,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 418,
+      "offset": 413,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 477,
+      "offset": 472,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 516,
+      "offset": 511,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 842,
+      "offset": 837,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 910,
+      "offset": 905,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1030,
+      "offset": 1025,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1152,
+      "offset": 1147,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1352,
+      "offset": 1347,
       "length": 20,
       "value": "\"\/license\/authorize\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1399,
+      "offset": 1394,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1524,
+      "offset": 1519,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1654,
+      "offset": 1649,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1714,
+      "offset": 1709,
       "length": 12,
       "value": "\"license_id\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1778,
+      "offset": 1773,
       "length": 13,
       "value": "\"function_id\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1800,
+      "offset": 1795,
       "length": 14,
       "value": "\"tacirler_dob\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1848,
+      "offset": 1843,
       "length": 8,
       "value": "\"app_id\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1879,
+      "offset": 1874,
       "length": 5,
       "value": "\"N\/A\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1998,
+      "offset": 1993,
       "length": 35,
       "value": "\"application\/x-www-form-urlencoded\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2055,
+      "offset": 2050,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2227,
+      "offset": 2222,
       "length": 44,
       "value": "\"An error occurred in the request: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2270,
+      "offset": 2265,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2386,
+      "offset": 2381,
       "length": 25,
       "value": "\"Response data is empty.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2574,
+      "offset": 2569,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2794,
+      "offset": 2789,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3082,
+      "offset": 3077,
       "length": 17,
       "value": "\"Token: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3098,
+      "offset": 3093,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3168,
+      "offset": 3163,
       "length": 34,
       "value": "\"Token not found in the response.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3290,
+      "offset": 3285,
       "length": 57,
       "value": "\"An error occurred while parsing response data: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3346,
+      "offset": 3341,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3461,
+      "offset": 3456,
       "length": 58,
       "value": "\"authorizeToken Response code: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3518,
+      "offset": 3513,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3702,
+      "offset": 3609,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3874,
+      "offset": 3880,
       "length": 25,
       "value": "\"\/license\/verify_session\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3927,
+      "offset": 3933,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4057,
+      "offset": 4063,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4191,
+      "offset": 4197,
       "length": 15,
       "value": "\"session_token\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4262,
+      "offset": 4268,
       "length": 10,
       "value": "\"function\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4281,
+      "offset": 4287,
       "length": 14,
       "value": "\"tacirler_dob\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4544,
+      "offset": 4550,
       "length": 44,
       "value": "\"An error occurred in the request: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4587,
+      "offset": 4593,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4703,
+      "offset": 4709,
       "length": 25,
       "value": "\"Response data is empty.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4891,
+      "offset": 4897,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "Array",
-      "offset": 5054,
+      "offset": 5060,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5106,
+      "offset": 5112,
       "length": 26,
       "value": "\"Response: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "Dictionary",
-      "offset": 5127,
+      "offset": 5133,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5131,
+      "offset": 5137,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5204,
+      "offset": 5210,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5491,
+      "offset": 5497,
       "length": 17,
       "value": "\"Token: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5507,
+      "offset": 5513,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5577,
+      "offset": 5583,
       "length": 34,
       "value": "\"Token not found in the response.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5713,
+      "offset": 5719,
       "length": 11,
       "value": "\"signature\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5917,
+      "offset": 5923,
       "length": 25,
       "value": "\"Signature: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5941,
+      "offset": 5947,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6322,
+      "offset": 6328,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6584,
+      "offset": 6590,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6793,
+      "offset": 6799,
       "length": 8,
       "value": "\"public\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6817,
+      "offset": 6823,
       "length": 5,
       "value": "\"pem\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6837,
+      "offset": 6843,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7162,
+      "offset": 7168,
       "length": 28,
       "value": "\"-----BEGIN PUBLIC KEY-----\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7383,
+      "offset": 7389,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7699,
+      "offset": 7705,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7711,
+      "offset": 7717,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7837,
+      "offset": 7843,
       "length": 26,
       "value": "\"-----END PUBLIC KEY-----\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10144,
+      "offset": 10150,
       "length": 29,
       "value": "\"??????? IS VERIFIED ???????\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10260,
+      "offset": 10266,
       "length": 29,
       "value": "\"??????? IS VERIFIED ???????\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10529,
+      "offset": 10360,
       "length": 38,
       "value": "\"Signature not found in the response.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10653,
+      "offset": 10484,
       "length": 57,
       "value": "\"An error occurred while parsing response data: \""
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10540,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10655,
+      "length": 55,
+      "value": "\"verifyToken Response code: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
@@ -51428,1170 +51465,1177 @@
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 10824,
-      "length": 55,
-      "value": "\"verifyToken Response code: \""
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 10878,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11269,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11511,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11692,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11841,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12030,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12181,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12230,
+      "offset": 10805,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12277,
+      "offset": 11216,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11458,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11639,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11788,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11977,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12128,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12177,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12334,
+      "offset": 12224,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12281,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12430,
+      "offset": 12377,
       "length": 32,
       "value": "\"scrollView.contentSize.width: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12637,
+      "offset": 12584,
       "length": 12,
       "value": "\"Powered by\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12816,
+      "offset": 12763,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12878,
+      "offset": 12825,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13040,
+      "offset": 12987,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13047,
+      "offset": 12994,
       "length": 3,
       "value": "325"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13059,
+      "offset": 13006,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13071,
+      "offset": 13018,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13118,
+      "offset": 13065,
       "length": 2,
       "value": "75"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13125,
+      "offset": 13072,
       "length": 3,
       "value": "290"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13137,
+      "offset": 13084,
       "length": 3,
       "value": "270"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13150,
+      "offset": 13097,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13207,
+      "offset": 13154,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13214,
+      "offset": 13161,
       "length": 3,
       "value": "450"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13226,
+      "offset": 13173,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13238,
+      "offset": 13185,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13285,
+      "offset": 13232,
       "length": 2,
       "value": "75"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13292,
+      "offset": 13239,
       "length": 3,
       "value": "440"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13304,
+      "offset": 13251,
       "length": 3,
       "value": "270"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13317,
+      "offset": 13264,
       "length": 2,
       "value": "55"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13373,
+      "offset": 13320,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13380,
+      "offset": 13327,
       "length": 3,
       "value": "560"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13392,
+      "offset": 13339,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13404,
+      "offset": 13351,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13451,
+      "offset": 13398,
       "length": 2,
       "value": "75"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13458,
+      "offset": 13405,
       "length": 3,
       "value": "525"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13470,
+      "offset": 13417,
       "length": 3,
       "value": "270"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13483,
+      "offset": 13430,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13506,
+      "offset": 13453,
       "length": 265,
       "value": "\"Sizlere daha iyi hizmet verebilmek amacıyla kişisel verileriniz Tacirler Yatırım tarafından Kişisel Verilerin Korunması ve Gizlilik Politikamız kapsamında işlenebilmektedir. Kişisel verilerimin işlenmesini ve Politika'nızı okuduğumu kabul ediyorum.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13788,
+      "offset": 13735,
       "length": 125,
       "value": "\"Tacirler Yatırım tarafından tanıtım ve pazarlama amacıyla Ticari ve Elektronik İleti gönderilmesine izin veriyorum.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13930,
+      "offset": 13877,
       "length": 255,
       "value": "\"Hesap açılışı amacıyla Tacirler Yatırım ile paylaştığım kimlik bilgilerim vasıtasıyla Tacirler Yatırım’ın “Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü” üzerinden adres bilgilerimde doğrulama yapmasını kabul ediyorum.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14214,
+      "offset": 14161,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14245,
+      "offset": 14192,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14276,
+      "offset": 14223,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14309,
+      "offset": 14256,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14454,
+      "offset": 14401,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14740,
+      "offset": 14687,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15031,
+      "offset": 14978,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15311,
+      "offset": 15258,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15445,
+      "offset": 15392,
       "length": 9,
       "value": "\"GÖNDER\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15607,
+      "offset": 15554,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15636,
+      "offset": 15583,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15736,
+      "offset": 15683,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16298,
+      "offset": 16245,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16354,
+      "offset": 16301,
       "length": 12,
       "value": "\"KVKK İzni\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16418,
+      "offset": 16365,
       "length": 18,
       "value": "\"KVKK İzni adasd\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16988,
+      "offset": 16935,
       "length": 12,
       "value": "\"KVKK İzni\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17592,
+      "offset": 17539,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17696,
+      "offset": 17643,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17799,
+      "offset": 17746,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17902,
+      "offset": 17849,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18310,
+      "offset": 18488,
       "length": 13,
       "value": "\"TacirlerSDK\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18340,
+      "offset": 18518,
       "length": 8,
       "value": "\"bundle\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 18793,
+      "length": 82,
+      "value": "\"Warning: Image named \""
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 18822,
+      "length": 3,
+      "value": "\" not found in main app bundle or TacirlerSDK bundle.\""
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18617,
+      "offset": 19004,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18686,
+      "offset": 19073,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18762,
+      "offset": 19149,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18831,
+      "offset": 19218,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18905,
+      "offset": 19292,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18970,
+      "offset": 19357,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19035,
+      "offset": 19422,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19100,
+      "offset": 19487,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19168,
+      "offset": 19555,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19236,
+      "offset": 19623,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19304,
+      "offset": 19691,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19985,
+      "offset": 20372,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20622,
+      "offset": 21009,
       "length": 12,
       "value": "\"KVKK İzni\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21116,
+      "offset": 21503,
       "length": 14,
       "value": "\"papilon-logo\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22239,
+      "offset": 22626,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22342,
+      "offset": 22729,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22445,
+      "offset": 22832,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22498,
+      "offset": 22885,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22531,
+      "offset": 22918,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22564,
+      "offset": 22951,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23952,
+      "offset": 24339,
       "length": 17,
       "value": "\"Politika'nızı\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24321,
+      "offset": 24708,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 24574,
+      "offset": 24961,
       "length": 29,
       "value": "\"Ticari ve Elektronik İleti\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24955,
+      "offset": 25342,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25253,
+      "offset": 25640,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25524,
+      "offset": 25911,
       "length": 4,
       "value": "-100"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25635,
+      "offset": 26022,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25743,
+      "offset": 26130,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25848,
+      "offset": 26235,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25983,
+      "offset": 26370,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26079,
+      "offset": 26466,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26503,
+      "offset": 26890,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26573,
+      "offset": 26960,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26644,
+      "offset": 27031,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26749,
+      "offset": 27136,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26846,
+      "offset": 27233,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26945,
+      "offset": 27332,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27039,
+      "offset": 27426,
       "length": 3,
       "value": "-80"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27293,
+      "offset": 27680,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27363,
+      "offset": 27750,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27434,
+      "offset": 27821,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27538,
+      "offset": 27925,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27635,
+      "offset": 28022,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27734,
+      "offset": 28121,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27828,
+      "offset": 28215,
       "length": 3,
       "value": "-80"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28083,
+      "offset": 28470,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28153,
+      "offset": 28540,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28224,
+      "offset": 28611,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28328,
+      "offset": 28715,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28425,
+      "offset": 28812,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28524,
+      "offset": 28911,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28620,
+      "offset": 29007,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28714,
+      "offset": 29101,
       "length": 3,
       "value": "-80"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28868,
+      "offset": 29255,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28946,
+      "offset": 29333,
       "length": 3,
       "value": "306"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29026,
+      "offset": 29413,
       "length": 3,
       "value": "104"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29227,
+      "offset": 29614,
       "length": 3,
       "value": "-30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29328,
+      "offset": 29715,
       "length": 3,
       "value": "-30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29427,
+      "offset": 29814,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29499,
+      "offset": 29886,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29979,
+      "offset": 30366,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30151,
+      "offset": 30538,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30229,
+      "offset": 30616,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 30384,
+      "offset": 30771,
       "length": 17,
       "value": "\"Politika'nızı\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30655,
+      "offset": 31042,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 30804,
+      "offset": 31191,
       "length": 29,
       "value": "\"Ticari ve Elektronik İleti\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31115,
+      "offset": 31502,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 31242,
+      "offset": 31629,
       "length": 15,
       "value": "\"Masak Beyanı\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31343,
+      "offset": 31730,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31675,
+      "offset": 32062,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 31852,
+      "offset": 32239,
       "length": 13,
       "value": "\"TacirlerSDK\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 31882,
+      "offset": 32269,
       "length": 8,
       "value": "\"bundle\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 31953,
+      "offset": 32340,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 31960,
+      "offset": 32347,
       "length": 4,
       "value": "\"KVKK-Politika.pdf\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32006,
+      "offset": 32393,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32013,
+      "offset": 32400,
       "length": 11,
       "value": "\"TicariIleti.pdf\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32165,
+      "offset": 32552,
       "length": 17,
       "value": "\"no pdf url kvkk\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32324,
+      "offset": 32711,
       "length": 19,
       "value": "\"no pdf url ticari\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32678,
+      "offset": 33065,
       "length": 26,
       "value": "\"\/user\/active_application\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 32784,
+      "offset": 33171,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32859,
+      "offset": 33246,
       "length": 11,
       "value": "\"authToken\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32903,
+      "offset": 33290,
       "length": 15,
       "value": "\"checkprevious\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32983,
+      "offset": 33370,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 33076,
+      "offset": 33463,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 33231,
+      "offset": 33618,
       "length": 33,
       "value": "\"Verify address error: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 33263,
+      "offset": 33650,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 33410,
+      "offset": 33797,
       "length": 8,
       "value": "\"Uyarı\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 33564,
+      "offset": 33951,
       "length": 13,
       "value": "\"Tekrar Dene\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 33828,
+      "offset": 34215,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 34059,
+      "offset": 34446,
       "length": 24,
       "value": "\"error no http response\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 34230,
+      "offset": 34617,
       "length": 6,
       "value": "\"user\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34304,
+      "offset": 34691,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34312,
+      "offset": 34699,
       "length": 3,
       "value": "299"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 34560,
+      "offset": 34947,
       "length": 17,
       "value": "\"Mevcut Başvuru\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 34743,
+      "offset": 35130,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34854,
+      "offset": 35241,
       "length": 3,
       "value": "300"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34862,
+      "offset": 35249,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35247,
+      "offset": 35634,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35425,
+      "offset": 35812,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35663,
+      "offset": 36050,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35841,
+      "offset": 36228,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 36095,
+      "offset": 36482,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/TacirlerSDKSourceCode\/Tacirler\/TacirlerSDK\/TacirlerSDK\/Classes\/TacirlerSDKViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 36273,
+      "offset": 36660,
       "length": 5,
       "value": "false"
     },

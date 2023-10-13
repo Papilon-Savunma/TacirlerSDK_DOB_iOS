@@ -12,6 +12,10 @@
 		<data>
 		fn/mGDA1RIeGPTmknyXJDAbDhhk=
 		</data>
+		<key>Gilroy-Regular.ttf</key>
+		<data>
+		pzfBk1blDLmlDrZMp0RsgN06o+M=
+		</data>
 		<key>Headers/TacirlerSDK-Swift.h</key>
 		<data>
 		75m7EX0+HU+YY+vKkUg/85jsdp0=
@@ -30,11 +34,11 @@
 		</data>
 		<key>Modules/TacirlerSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		UK4V2sVYT9fvGWjAs4JYRdzkbaU=
+		6ASH99/hcxEryjx3qXxQS0FwrkA=
 		</data>
 		<key>Modules/TacirlerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		4VIYGLRCn/SMKCpBphKXj+5fIn4=
+		FByjnw8dnZhyCY1lbOGsk6z24IQ=
 		</data>
 		<key>Modules/TacirlerSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,19 +46,19 @@
 		</data>
 		<key>Modules/TacirlerSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		4VIYGLRCn/SMKCpBphKXj+5fIn4=
+		FByjnw8dnZhyCY1lbOGsk6z24IQ=
 		</data>
 		<key>Modules/TacirlerSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oFBtYv1I3BG3iAM9fSTsXmiTBCo=
+		n2ckEukl4+Rxxa9E2mQ49jE2SMw=
 		</data>
 		<key>Modules/TacirlerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		UK4V2sVYT9fvGWjAs4JYRdzkbaU=
+		6ASH99/hcxEryjx3qXxQS0FwrkA=
 		</data>
 		<key>Modules/TacirlerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		qKQJdQG+TaoLxoeU6iWMfcVo6R4=
+		zCdScKslqYpll9NniqJ+yUrdIy4=
 		</data>
 		<key>Modules/TacirlerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,11 +66,11 @@
 		</data>
 		<key>Modules/TacirlerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qKQJdQG+TaoLxoeU6iWMfcVo6R4=
+		zCdScKslqYpll9NniqJ+yUrdIy4=
 		</data>
 		<key>Modules/TacirlerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iLn6EhGqwVWpMAbhD3m88fIPzOs=
+		3pxHlyoTYIO/nwyMgkyTr7AnDTA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,6 +91,10 @@
 		<key>TacirlerSDK.bundle/Arsenal-Regular.ttf</key>
 		<data>
 		fn/mGDA1RIeGPTmknyXJDAbDhhk=
+		</data>
+		<key>TacirlerSDK.bundle/Gilroy-Regular.ttf</key>
+		<data>
+		pzfBk1blDLmlDrZMp0RsgN06o+M=
 		</data>
 		<key>TacirlerSDK.bundle/Info.plist</key>
 		<data>
@@ -157,6 +165,13 @@
 			yvK0Q9sbjE2OFVWoLhy6L66pGZWJ5j4d9dkmNbLgtnU=
 			</data>
 		</dict>
+		<key>Gilroy-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KdAvcTB+X5tMGgEX0nFugQ5BHDCD2qcyLSyq8FNqDoc=
+			</data>
+		</dict>
 		<key>Headers/TacirlerSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -182,14 +197,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TgTuyQgVGT/QASE+hqUjCxE0RBfs8ThuEaI+UkMAU24=
+			cw5YVMun7RFAf++mSQRmFywRsdzkuyBE+quFC+zpgJA=
 			</data>
 		</dict>
 		<key>Modules/TacirlerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IlzTv3saNFCzFOXsb4E++DIHtsxxgAP4R5SCIiDEdJc=
+			dOCHj4xIsjNT+L+Tt/2vnE1W2HWkFarAKy8hM/Xl2SI=
 			</data>
 		</dict>
 		<key>Modules/TacirlerSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -203,28 +218,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IlzTv3saNFCzFOXsb4E++DIHtsxxgAP4R5SCIiDEdJc=
+			dOCHj4xIsjNT+L+Tt/2vnE1W2HWkFarAKy8hM/Xl2SI=
 			</data>
 		</dict>
 		<key>Modules/TacirlerSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RE2idqR/tOtESz1tUNZoFOdhzBrZYLhPvT3O+usEAhE=
+			my0pcSFj5DvWNtrHyJmQc2nTD6jY0I+Bt3rcFoyA0/8=
 			</data>
 		</dict>
 		<key>Modules/TacirlerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TgTuyQgVGT/QASE+hqUjCxE0RBfs8ThuEaI+UkMAU24=
+			cw5YVMun7RFAf++mSQRmFywRsdzkuyBE+quFC+zpgJA=
 			</data>
 		</dict>
 		<key>Modules/TacirlerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2oQa5nIQl3bnx7wxH2xD+EMCNJmMepKgqyETAIjPws=
+			mjUb0O4fqr7ps5ezS0UguOn1ErNeCCbvMxZhSTMJosA=
 			</data>
 		</dict>
 		<key>Modules/TacirlerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -238,14 +253,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2oQa5nIQl3bnx7wxH2xD+EMCNJmMepKgqyETAIjPws=
+			mjUb0O4fqr7ps5ezS0UguOn1ErNeCCbvMxZhSTMJosA=
 			</data>
 		</dict>
 		<key>Modules/TacirlerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0tktykX6fQGvvuWa5Z6l1rR0PFnJO9DLIySQi/hGyuI=
+			HOW6KUWT9EXvIVq5n5f0FrjuLsLZysY7o0HO1KC3v1o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -281,6 +296,13 @@
 			<key>hash2</key>
 			<data>
 			yvK0Q9sbjE2OFVWoLhy6L66pGZWJ5j4d9dkmNbLgtnU=
+			</data>
+		</dict>
+		<key>TacirlerSDK.bundle/Gilroy-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KdAvcTB+X5tMGgEX0nFugQ5BHDCD2qcyLSyq8FNqDoc=
 			</data>
 		</dict>
 		<key>TacirlerSDK.bundle/Info.plist</key>
