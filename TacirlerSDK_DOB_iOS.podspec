@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TacirlerSDK_DOB_iOS'
-  s.version          = '0.1.1'
+  s.version          = '2.0.0'
   s.summary          = 'KYC process'
 
   s.homepage         = 'https://github.com/Papilon-Savunma/TacirlerSDK_DOB_iOS'
